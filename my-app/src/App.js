@@ -21,6 +21,7 @@ function App() {
       <div className="Temp">18°C</div>
       </div>
       </header>
+      <p>This project was published on <a href="https://github.com/Mbalie3737/week-4-weather-project">Github</a></p>
     </div>
   );
 }
