@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #885df1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin: 38px;
+  border: 1px solid;
+}
+.Temp-details {
+  display: flex;
+  justify-content: space-between;
+
+}
+.Temp {
+  font-size: 68px;
+}
+.Icon {
+  font-size: 48px;
+}
